@@ -1,0 +1,8 @@
+openagi
+pandas
+openpyxl
+yt-dlp
+youtube-search-python
+langchain-google-genai
+langchain-core
+tavily-python
